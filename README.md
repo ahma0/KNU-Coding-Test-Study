@@ -34,6 +34,18 @@
 
 <br>
 
+## 🙏 pr 규칙
+
+- 풀이하신 코드는 본인 브랜치에 커밋 후 pr을 생성해서 메인 브랜치에 합쳐주세요.
+- 시도했지만 해결하지 못한 문제가 있는 경우 풀이 흔적 또는 틀린 코드를 함께 올려주세요.
+
+- pr 생성하실 때는 *본인 이름의 라벨을 추가*해주세요.
+- 라벨
+  - I'm trying 🔥: 시도했지만 해결하지 못한 문제가 있는 pr
+  - help 🙋‍♂️: 도움이 필요한 pr
+
+<br>
+
 ## 👥 Member
 
 | [🌱 강채련](https://github.com/chaeryeon823) | [🍘 권민우](https://github.com/Kwonminwoo) | [🥨 안나영](https://github.com/ahma0) | [🍟 이상민](https://github.com/netco97) | [🍭 이윤표](https://github.com/lee-yun-pyo) | [🍡 장세희](https://github.com/julia8024) |
