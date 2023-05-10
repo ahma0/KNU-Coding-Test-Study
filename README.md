@@ -39,7 +39,7 @@
 - 풀이하신 코드는 본인 브랜치에 커밋 후 pr을 생성해서 메인 브랜치에 합쳐주세요.
 - 시도했지만 해결하지 못한 문제가 있는 경우 풀이 흔적 또는 틀린 코드를 함께 올려주세요.
 
-- pr 생성하실 때는 *본인 이름의 라벨을 추가*해주세요.
+- pr 생성하실 때는 **본인 이름의 라벨**과 **언어 라벨**을 추가해주세요.
 - 라벨
   - I'm trying 🔥: 시도했지만 해결하지 못한 문제가 있는 pr
   - help 🙋‍♂️: 도움이 필요한 pr
@@ -51,5 +51,5 @@
 | [🌱 강채련](https://github.com/chaeryeon823) | [🍘 권민우](https://github.com/Kwonminwoo) | [🥨 안나영](https://github.com/ahma0) | [🍟 이상민](https://github.com/netco97) | [🍭 이윤표](https://github.com/lee-yun-pyo) | [🍡 장세희](https://github.com/julia8024) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://avatars.githubusercontent.com/u/84761609?v=4?s=100" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/34360434?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/84761609?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/101931428?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/41375597?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/79641953?v=4" width="100px;" alt=""/> |
-| <a href="https://solved.ac/chch_xili"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=chch_xili"/></a> | - | <a href="https://solved.ac/dsd932"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dsd932"/></a> | <a href="https://solved.ac/dog0626"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dog0626"/></a> | <a href="https://solved.ac/yun912"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yun912"/></a> | <a href="https://solved.ac/julia8024"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=julia8024"/></a> |
+| <a href="https://solved.ac/chch_xili"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=chch_xili"/></a> | <a href="https://solved.ac/qwerty029369"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qwerty029369"/></a> | <a href="https://solved.ac/dsd932"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dsd932"/></a> | <a href="https://solved.ac/dog0626"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dog0626"/></a> | <a href="https://solved.ac/yun912"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yun912"/></a> | <a href="https://solved.ac/julia8024"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=julia8024"/></a> |
 
