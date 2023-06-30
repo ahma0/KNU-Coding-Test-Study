@@ -9,4 +9,5 @@ for i in range(N):
     else:
         dict_[temp] = 1
 
-print(sorted(dict_.items, key=lambda x: (-x[1], x[0]))[0][0])
+dict_ = sorted(dict_.items(), key=lambda x: (-x[1], x[0]))
+print(dict_[0][0])
