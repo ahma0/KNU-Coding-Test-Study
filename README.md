@@ -1,3 +1,11 @@
+# 📝 공주대 코딩테스트 스터디
+
+> [출석부](https://github.com/ahma0/KNU-Coding-Test-Study/blob/main/check.md)
+
+- 실버 5 이상 문제로 풀어주세요!
+- 문제 1 문제당 벌점 1점씩입니다! 벌점 15점 이상 시 OUT❗️
+
+<br>
 
 ## 📎 참여방법
 
@@ -39,17 +47,17 @@
 - 풀이하신 코드는 본인 브랜치에 커밋 후 pr을 생성해서 메인 브랜치에 합쳐주세요.
 - 시도했지만 해결하지 못한 문제가 있는 경우 풀이 흔적 또는 틀린 코드를 함께 올려주세요.
 
-- pr 생성하실 때는 **본인 이름의 라벨**과 **언어 라벨**을 추가해주세요.
+<!-- - pr 생성하실 때는 **본인 이름의 라벨**과 **언어 라벨**을 추가해주세요.
 - 라벨
   - I'm trying 🔥: 시도했지만 해결하지 못한 문제가 있는 pr
-  - help 🙋‍♂️: 도움이 필요한 pr
+  - help 🙋‍♂️: 도움이 필요한 pr -->
 
 <br>
 
 ## 👥 Member
 
-| [🌱 강채련](https://github.com/chaeryeon823) | [🍘 권민우](https://github.com/Kwonminwoo) | [🥨 안나영](https://github.com/ahma0) | [🍟 이상민](https://github.com/netco97) | [🍭 이윤표](https://github.com/lee-yun-pyo) | [🍡 장세희](https://github.com/julia8024) | [👸 지찬우](https://github.com/jcw1031)
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://avatars.githubusercontent.com/u/87600308?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/34360434?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/84761609?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/101931428?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/41375597?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/79641953?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/69714701?v=4" width="100px;" alt=""/>
-| <a href="https://solved.ac/chch_xili"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=chch_xili"/></a> | <a href="https://solved.ac/qwerty029369"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qwerty029369"/></a> | <a href="https://solved.ac/dsd932"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dsd932"/></a> | <a href="https://solved.ac/dog0626"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dog0626"/></a> | <a href="https://solved.ac/yun912"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yun912"/></a> | <a href="https://solved.ac/julia8024"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=julia8024"/></a> | <a href="https://solved.ac/jcw1031"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jcw1031"/></a> |
+| [🌱 강채련](https://github.com/chaeryeon823) | [🍘 권민우](https://github.com/Kwonminwoo) | [🥨 안나영](https://github.com/ahma0) | [🍟 이상민](https://github.com/netco97) | [🍡 장세희](https://github.com/julia8024) | [👸 지찬우](https://github.com/jcw1031)
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://avatars.githubusercontent.com/u/87600308?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/34360434?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/84761609?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/101931428?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/79641953?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/69714701?v=4" width="100px;" alt=""/>
+| <a href="https://solved.ac/chch_xili"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=chch_xili"/></a> | <a href="https://solved.ac/qwerty029369"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qwerty029369"/></a> | <a href="https://solved.ac/dsd932"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dsd932"/></a> | <a href="https://solved.ac/dog0626"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dog0626"/></a> | <a href="https://solved.ac/julia8024"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=julia8024"/></a> | <a href="https://solved.ac/jcw1031"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jcw1031"/></a> |
 
