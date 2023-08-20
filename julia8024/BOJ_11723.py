@@ -1,23 +1,29 @@
 import sys
 
 M = int(sys.stdin.readline())
-S = []
+S = set()
 
 for _ in range(M):
-    temp = sys.stdin.readline().split()
-    length = len(S)
-
-    if temp[0] == "add" and temp[1] not in set(S):
-        S.append(temp[1])
-    elif temp[0] == "remove" and temp[1] in set(S):
-        S.remove(temp[1])
-    elif temp[0] == "check":
-        print(1 if temp[1] in set(S) else 0)
-    elif temp[0] == "toggle":
-        if temp[1] not in set(S):
-            S.append(temp[1])
+    temp = sys.stdin.readline().strip().split()
+    
+    if len(temp) == 1:
+        if temp[0] == "all":
+            S = set([i for i in range(1, 21)])
         else:
-            S.remove(temp[1])
-    elif temp[0] == "all":
-        S = set(range(1, 21, 1))
-        print(S)
+            S = set()
+    
+    else:
+        func, x = temp[0], temp[1]
+        x = int(x)
+
+        if func == "add":
+            S.add(x)
+        elif func == "remove":
+            S.discard(x)
+        elif func == "check":
+            print(1 if x in S else 0)
+        elif func == "toggle":
+            if x in S:
+                S.discard(x)
+            else:
+                S.add(x)
